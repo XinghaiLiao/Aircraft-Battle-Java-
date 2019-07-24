@@ -1,0 +1,9 @@
+package xyz.xinghai.game;
+
+/**
+ * µÐÈË½Ó¿Ú
+ *
+ */
+public interface Enemy {
+	public int getScore();
+}
